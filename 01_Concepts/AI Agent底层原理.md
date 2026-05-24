@@ -50,4 +50,4 @@ Thought → Action → Observation → Thought → ...
 理解这个结构，能帮我更好地设计给它的任务，而不是把它当一个聊天框用。
 
 ## 关联
-[[opc-one-person-company]] [[ai-as-execution-system]] [[cognitive-path-model]]
+[[OPC一人公司模式]] [[AI执行系统而非工具]] [[认知路径模型]]

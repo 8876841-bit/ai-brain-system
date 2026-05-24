@@ -31,4 +31,4 @@ tags: [AI, 商业模式, Agent, 执行系统]
 - 一个完整的OPC内容公司，应该有哪些角色分工？
 
 ## 关联
-[[ai-agent-fundamentals]] [[ai-as-execution-system]] [[path-pattern]]
+[[AI Agent底层原理]] [[AI执行系统而非工具]] [[路径模式]]

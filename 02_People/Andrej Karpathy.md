@@ -41,4 +41,4 @@ tags: [AI, 深度学习, 教育, OpenAI, Tesla]
 他做的事：把最复杂的技术讲清楚。这和"把模型能力转译成人能理解的内容"是同一件事，只是他在技术层，我在应用层。
 
 ## 关联
-[[path-pattern]] [[self-positioning-age]] [[ar-core-figures]] [[complex-expression-model]]
+[[路径模式]] [[年代与机会自我定位]] [[AI核心人物清单]] [[复杂表达模型]]

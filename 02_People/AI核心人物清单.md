@@ -22,8 +22,8 @@ tags: [AI, 人物研究, 清单]
 
 | 人物 | 出生年 | 核心标签 | 档案 |
 |---|---|---|---|
-| Andrej Karpathy | 1986 | 深度学习 / 教育 / OpenAI / Tesla | [[andrej-karpathy]] |
-| Andrew Ng | 1976 | 深度学习 / Coursera / AI教育 | [[andrew-ng]] |
+| Andrej Karpathy | 1986 | 深度学习 / 教育 / OpenAI / Tesla | [[Andrej Karpathy]] |
+| Andrew Ng | 1976 | 深度学习 / Coursera / AI教育 | [[Andrew Ng]] |
 | 翁家翌 | ~1997-1999 | OpenAI / 强化学习 / Infra | [[翁家翌]] |
 
 ## 待研究人物
@@ -32,4 +32,4 @@ tags: [AI, 人物研究, 清单]
 - Ilya Sutskever
 
 ## 关联
-[[path-pattern]] [[self-positioning-age]]
+[[路径模式]] [[年代与机会自我定位]]

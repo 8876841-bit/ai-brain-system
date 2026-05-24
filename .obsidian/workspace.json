@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "221e6c262136dcd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5162e50a987a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4501d1e9485d482b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2096c00cbc5788e",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ebe47860fa0ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da2b3359eebcfc8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2b648a4c5a090a3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#复杂简化",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c386d4dfb076bda0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e63b189d52b078f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af9b2e2efd4d8ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d70a1f47aed091f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_People/翁家翌.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "翁家翌 的反向链接列表"
+            }
+          },
+          {
+            "id": "84fd0d34bf9b4a96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_People/翁家翌.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "翁家翌 的出链列表"
+            }
+          },
+          {
+            "id": "84aa5da6fcba0951",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c8fd472e4956cafd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8a295c07f1ce1ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_People/翁家翌.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "翁家翌 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "4501d1e9485d482b",
+  "lastOpenFiles": [
+    "09_Models/复杂表达模型.md",
+    "09_Models/认知路径模型.md",
+    "07_Skills/碎片知识管理三步法.md",
+    "05_Insights/年代与机会自我定位.md",
+    "05_Insights/路径模式.md",
+    "05_Insights/AI执行系统而非工具.md",
+    "04_Questions/如何获得结构理解表达整合能力.md",
+    "04_Questions/核心认知问题.md",
+    "04_Questions/触发-幻方是什么.md",
+    "02_People/AI核心人物清单.md",
+    "02_People/Andrew Ng.md",
+    "02_People/Andrej Karpathy.md",
+    "01_Concepts/AI Agent底层原理.md",
+    "01_Concepts/OPC一人公司模式.md",
+    "05_Insights/path-pattern.md",
+    "04_Questions/core-cognitive-questions.md",
+    "09_Models/cognitive-path-model.md",
+    "未命名.base",
+    "README.md",
+    "2026-05-25.md",
+    "02_People/翁家翌.md",
+    "01_Concepts/opc-one-person-company.md",
+    "00_Inbox/20260523-batch01.md"
+  ]
+}

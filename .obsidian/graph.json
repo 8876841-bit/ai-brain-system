@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:01_Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 2704496
+      }
+    },
+    {
+      "query": "path:02_People ",
+      "color": {
+        "a": 1,
+        "rgb": 5431428
+      }
+    },
+    {
+      "query": "path:04_Questions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14673535
+      }
+    },
+    {
+      "query": "path:05_Insights  ",
+      "color": {
+        "a": 1,
+        "rgb": 14727762
+      }
+    },
+    {
+      "query": "path:07_Skills  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:09_Models  ",
+      "color": {
+        "a": 1,
+        "rgb": 8147680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 3.02638888888889,
+  "lineSizeMultiplier": 1.58999131944444,
+  "collapse-forces": false,
+  "centerStrength": 0.124739583333333,
+  "repelStrength": 16.0321180555556,
+  "linkStrength": 0.631857638888889,
+  "linkDistance": 395,
+  "scale": 1.1422458546297125,
+  "close": true
+}

@@ -41,4 +41,4 @@ tags: [AI, 深度学习, 教育, Coursera, 传播]
 他的路径证明：教育和传播本身可以是一种商业模式，而且上限极高。把AI知识传播给普通人这件事，和他做的是同一个方向，只是受众不同。
 
 ## 关联
-[[path-pattern]] [[self-positioning-age]] [[ar-core-figures]] [[complex-expression-model]]
+[[路径模式]] [[年代与机会自我定位]] [[AI核心人物清单]] [[复杂表达模型]]

@@ -31,4 +31,4 @@ tags: [AI, 执行系统, 工具, Workflow]
 政立路内容生产流程（脚本/拍摄/剪辑/发布/数据一套出完）= 已经是层级3的系统雏形。下一个案例能复用，就升到层级3稳定版。
 
 ## 关联
-[[opc-one-person-company]] [[ai-agent-fundamentals]] [[cognitive-path-model]]
+[[OPC一人公司模式]] [[AI Agent底层原理]] [[认知路径模型]]
