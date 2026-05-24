@@ -1,3 +1,9 @@
+---
+status: 深挖中
+type: Concept
+tags: [AI, 商业模式, Agent, 执行系统]
+---
+
 # OPC — 一人公司模式
 
 ## 来源
@@ -24,9 +30,5 @@
 - 哪些环节还是靠人工重复做，可以用Agent替代？
 - 一个完整的OPC内容公司，应该有哪些角色分工？
 
-## 关联文件
-→ `05_Insights/ai-as-execution-system.md`
-→ `05_Insights/path-pattern.md`
-
-## 当前状态
-概念理解，尚未完整落地
+## 关联
+[[ai-agent-fundamentals]] [[ai-as-execution-system]] [[path-pattern]]

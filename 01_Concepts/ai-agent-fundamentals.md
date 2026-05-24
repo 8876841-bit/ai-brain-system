@@ -1,3 +1,9 @@
+---
+status: 深挖中
+type: Concept
+tags: [AI, Agent, 底层原理]
+---
+
 # AI Agent 底层原理
 
 ## 来源
@@ -26,12 +32,12 @@
 
 ## 两个关键协议
 
-- **MCP（Model Context Protocol）**：帮助Agent获取外部环境信息，类似USB接口——不同设备通过统一接口连接
+- **MCP（Model Context Protocol）**：帮助Agent获取外部环境信息，类似USB接口
 - **A2A（Agent to Agent）**：定义Agent之间的消息格式，实现多Agent实时同步
 
 ## 思维模式：ReAct
 
-**推理（Reason）与行动（Act）交替循环**：
+推理（Reason）与行动（Act）交替循环：
 ```
 Thought → Action → Observation → Thought → ...
 ```
@@ -43,5 +49,5 @@ Thought → Action → Observation → Thought → ...
 
 理解这个结构，能帮我更好地设计给它的任务，而不是把它当一个聊天框用。
 
-## 当前状态
-概念理解，需要找真实案例验证各模块如何协作
+## 关联
+[[opc-one-person-company]] [[ai-as-execution-system]] [[cognitive-path-model]]
