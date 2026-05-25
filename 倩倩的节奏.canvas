@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2141c64225cb7f33","type":"text","text":"白天上午10点~下午4点\n1.做前一天晚上整合内容的进一步内化\n2.做新一天信息的摄入\n3.洞察联动现象，记录灵感","x":-440,"y":-80,"width":265,"height":160,"color":"4"},
+		{"id":"86c2766effc05ebe","x":-440,"y":-360,"width":265,"height":110,"color":"2","type":"text","text":"早上9点~10点\n1.做前一天晚上整合内容分享的拍摄"},
+		{"id":"8a84151175ad5940","type":"text","text":"傍晚下午4点~下午6.30点\n1.做早上视频的剪辑和发布\n2.分析前一个视频的反馈\n3.设定下一个视频的优化方向","x":20,"y":-80,"width":265,"height":160,"color":"4"},
+		{"id":"b48aed8bd4a01fff","type":"text","text":"晚上9点~12点\n1.做白天问题的整理，进一步探究+推进\n2.准备好要分享内容的整合","x":20,"y":-360,"width":265,"height":110,"color":"2"}
+	],
+	"edges":[
+		{"id":"390900fa0acd4be9","fromNode":"b48aed8bd4a01fff","fromSide":"top","toNode":"86c2766effc05ebe","toSide":"top"},
+		{"id":"0229cc9e9d522ddc","fromNode":"86c2766effc05ebe","fromSide":"bottom","toNode":"2141c64225cb7f33","toSide":"top"},
+		{"id":"0092a73110f6568b","fromNode":"2141c64225cb7f33","fromSide":"bottom","toNode":"8a84151175ad5940","toSide":"bottom"},
+		{"id":"0a5cae6bb68de7be","fromNode":"8a84151175ad5940","fromSide":"top","toNode":"b48aed8bd4a01fff","toSide":"bottom"}
+	]
+}

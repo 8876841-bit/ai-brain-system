@@ -31,7 +31,10 @@ attention 之后的加工层，快速归纳、整理信息。
 ### Layer Normalization（层归一化）
 让每一层的数据保持稳定，防止层数越深越混乱。多层叠加时保证各层数据同步。
 
-## Transformer → GPT
+### Residual Connection（残差连接）
+每个组件处理完信息后，把原始输入直接加回去，防止信息在层层传递中丢失。像一条"直通管道"绕过每一层，保留原始信号。
+
+## Transformer → GPT → LLM
 
 GPT = **G**enerative **P**re-trained **T**ransformer
 
@@ -40,6 +43,12 @@ GPT = **G**enerative **P**re-trained **T**ransformer
 - Transformer：底层架构
 
 GPT 是基于 transformer 的文本生成模型。
+
+## LLM（大语言模型）
+
+LLM = **L**arge **L**anguage **M**odel，大语言模型。
+
+GPT、Claude、Gemini 都是 LLM。"大"指的是参数量大、训练数据量大。Transformer 是 LLM 的底层架构。
 
 ## 关联
 

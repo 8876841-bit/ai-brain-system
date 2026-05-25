@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5162e50a987a50",
+        "id": "37325ffb6534a305",
         "type": "tabs",
         "children": [
           {
-            "id": "4501d1e9485d482b",
+            "id": "0f71672d308543a5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#复杂简化",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,12 +70,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e63b189d52b078f1",
@@ -162,12 +161,12 @@
               "title": "翁家翌 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,30 +179,55 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4501d1e9485d482b",
+  "active": "0f71672d308543a5",
   "lastOpenFiles": [
-    "09_Models/复杂表达模型.md",
-    "09_Models/认知路径模型.md",
-    "07_Skills/碎片知识管理三步法.md",
-    "05_Insights/年代与机会自我定位.md",
-    "05_Insights/路径模式.md",
-    "05_Insights/AI执行系统而非工具.md",
-    "04_Questions/如何获得结构理解表达整合能力.md",
-    "04_Questions/核心认知问题.md",
-    "04_Questions/触发-幻方是什么.md",
-    "02_People/AI核心人物清单.md",
-    "02_People/Andrew Ng.md",
-    "02_People/Andrej Karpathy.md",
-    "01_Concepts/AI Agent底层原理.md",
-    "01_Concepts/OPC一人公司模式.md",
-    "05_Insights/path-pattern.md",
-    "04_Questions/core-cognitive-questions.md",
-    "09_Models/cognitive-path-model.md",
+    "案例/政立路/拍摄执行方案/统一拍摄清单.md",
+    "案例/政立路/拍摄执行方案/短1拍摄方案.md",
+    "风格手册/拍摄执行标准模板.md",
+    "案例/政立路/案例基本信息.md",
+    "案例/政立路/拍摄执行方案/发布文案+标签.md",
+    "风格手册/拍摄执行包样式模板.md",
+    "案例/政立路/拍摄执行方案/剪辑清单.md",
+    "风格手册/短视频发布前QC清单.md",
+    "案例/政立路/数据复盘/评论区回复策略.md",
+    "案例/政立路/参考-AI生成版本/短4-洗烘机震动-AI版.md",
+    "案例/政立路/参考-AI生成版本/短5-卫浴柜台面-AI版.md",
+    "案例/政立路/长视频脚本/长视频-带你看整个家.md",
+    "风格手册/下单核对模板.md",
+    "风格手册/账号主页设置.md",
+    "案例/政立路/参考-AI生成版本/短1-八百库-AI版.md",
+    "案例/政立路/参考-AI生成版本/短2-内嵌窗口-AI版.md",
+    "案例/政立路/数据复盘/数据记录表.md",
+    "案例/政立路/拍摄执行方案/发布顺序.md",
+    "风格手册/案例输入模板.md",
+    "案例/政立路/短视频脚本/短5-卫浴柜台面.md",
+    "案例/政立路/短视频脚本/短5-卫浴柜台面-抖音版.md",
+    "案例/政立路/短视频脚本/短4-洗烘机震动-抖音版.md",
+    "案例/政立路/短视频脚本/短2-内嵌窗口-抖音版.md",
+    "案例/政立路/短视频脚本/短1-八百库.md",
+    "案例/政立路/短视频脚本/短4-洗烘机震动.md",
+    "案例/政立路/短视频脚本/短1-八百库-抖音版.md",
+    "案例/政立路/参考-AI生成版本",
+    "案例/政立路/拍摄执行方案",
+    "案例/政立路/短视频脚本",
+    "案例/政立路/长视频脚本",
+    "案例/政立路/数据复盘",
+    "案例/政立路",
+    "风格手册",
+    "案例",
+    "倩倩的节奏.canvas",
+    "倩倩碎片化整理入口/IMG_4567.jpeg",
+    "倩倩碎片化整理入口/IMG_4567 1.jpeg",
+    "倩倩碎片化整理入口/IMG_4565.jpeg",
+    "倩倩碎片化整理入口/IMG_4566.jpeg",
+    "倩倩碎片化整理入口",
+    "IMG_4566.jpeg",
+    "IMG_4565.jpeg",
+    "IMG_4567 1.jpeg",
+    "IMG_4567.jpeg",
     "未命名.base",
-    "README.md",
-    "2026-05-25.md",
-    "02_People/翁家翌.md",
-    "01_Concepts/opc-one-person-company.md",
-    "00_Inbox/20260523-batch01.md"
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "IMG_4590.png"
   ]
 }
