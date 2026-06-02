@@ -75,10 +75,29 @@ _System/      系统设计文档
 
 ## 当前学习进度
 
-- 已完成：AI基础概念、OPC一人公司、AI Agent底层原理
-- 已完成：Transformer架构（token/embedding/attention/layer norm/residual connection/LLM/GPT）
-- 在研究：AI核心人物路径（翁家翌、Karpathy、Andrew Ng）
-- 核心洞察：机会在应用层和内容层，不在技术层
+### 已完成
+- AI基础概念、OPC一人公司、AI Agent底层原理
+- Transformer架构（token/embedding/attention/layer norm/residual connection/LLM/GPT）
+- RAG与向量检索、Agent核心概念、多Agent架构与框架
+- 45天AI课程提前通读（已掌握整体知识体系框架）
+
+### 进行中
+- **Python学习**：6月初开始，找了罗西陪跑，目标是能搭知识库
+  - 练习路径见 `07_Skills/Python练习路径.md`（共5关）
+  - 当前状态：刚开始，第一关还未完成
+  - 遇到问题可问罗西
+- **AI学习视频日记**：5月25日起每日录制，分享学习过程和AI概念
+  - 脚本仓库：`/Users/wqq/video-scripts/`
+  - 两种类型：生活分享型 + AI知识传播型
+
+### 已搭建的工具（待优化）
+- 网站库工具：已跑起来，效率低、答复质量弱
+- 知识管理工具：已跑起来，逻辑有问题
+- 根本原因：缺知识库 → Python学完后优先解决这个
+
+### 核心洞察
+- 机会在应用层和内容层，不在技术层
+- 有家装行业真实数据 = 有垂直知识库的原材料
 
 ---
 
